@@ -933,6 +933,10 @@ img {
         text-align: start;
     }
 
+    .section-team-hhh{
+        text-align: center;
+    }
+
     .section-team-ul {
         flex-direction: row;
         flex-wrap: wrap;
